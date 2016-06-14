@@ -1,0 +1,77 @@
+﻿生成启动时间为 2015/8/10 14:38:20。
+     1>项目“E:\projects\luaToCPP\luaToCPP\luaToCPP.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /D _MBCS /D _CRT_SECURE_NO_DEPRECATE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\luaLib\lapi.c ..\luaLib\lauxlib.c ..\luaLib\lbaselib.c ..\luaLib\lcode.c ..\luaLib\ldblib.c ..\luaLib\ldebug.c ..\luaLib\ldo.c ..\luaLib\ldump.c ..\luaLib\lfunc.c ..\luaLib\lgc.c ..\luaLib\linit.c ..\luaLib\liolib.c ..\luaLib\llex.c ..\luaLib\lmathlib.c ..\luaLib\lmem.c ..\luaLib\loadlib.c ..\luaLib\lobject.c ..\luaLib\lopcodes.c ..\luaLib\loslib.c ..\luaLib\lparser.c ..\luaLib\lstate.c ..\luaLib\lstring.c ..\luaLib\lstrlib.c ..\luaLib\ltable.c ..\luaLib\ltablib.c ..\luaLib\ltm.c ..\luaLib\lundump.c ..\luaLib\lvm.c ..\luaLib\lzio.c ..\luaLib\print.c
+         print.c
+         lzio.c
+         lvm.c
+         lundump.c
+         ltm.c
+         ltablib.c
+         ltable.c
+         lstrlib.c
+         lstring.c
+         lstate.c
+         lparser.c
+         loslib.c
+         lopcodes.c
+         lobject.c
+         loadlib.c
+         lmem.c
+         lmathlib.c
+         llex.c
+         liolib.c
+         linit.c
+         正在生成代码...
+         正在编译...
+         lgc.c
+         lfunc.c
+         ldump.c
+         ldo.c
+         ldebug.c
+         ldblib.c
+         lcode.c
+         lbaselib.c
+         lauxlib.c
+         lapi.c
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /D _MBCS /D _CRT_SECURE_NO_DEPRECATE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\projects\luaToCPP\Debug\luaToCPP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\projects\luaToCPP\Debug\luaToCPP.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\projects\luaToCPP\Debug\luaToCPP.lib" /MACHINE:X86 Debug\lapi.obj
+         Debug\lauxlib.obj
+         Debug\lbaselib.obj
+         Debug\lcode.obj
+         Debug\ldblib.obj
+         Debug\ldebug.obj
+         Debug\ldo.obj
+         Debug\ldump.obj
+         Debug\lfunc.obj
+         Debug\lgc.obj
+         Debug\linit.obj
+         Debug\liolib.obj
+         Debug\llex.obj
+         Debug\lmathlib.obj
+         Debug\lmem.obj
+         Debug\loadlib.obj
+         Debug\lobject.obj
+         Debug\lopcodes.obj
+         Debug\loslib.obj
+         Debug\lparser.obj
+         Debug\lstate.obj
+         Debug\lstring.obj
+         Debug\lstrlib.obj
+         Debug\ltable.obj
+         Debug\ltablib.obj
+         Debug\ltm.obj
+         Debug\lundump.obj
+         Debug\lvm.obj
+         Debug\lzio.obj
+         Debug\print.obj
+         Debug\main.obj
+         luaToCPP.vcxproj -> E:\projects\luaToCPP\Debug\luaToCPP.exe
+     1>已完成生成项目“E:\projects\luaToCPP\luaToCPP\luaToCPP.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.60
